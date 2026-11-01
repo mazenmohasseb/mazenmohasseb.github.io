@@ -1,0 +1,4 @@
+Contact: mailto:mazenmohasseb1@gmail.com
+Expires: 2027-11-01T00:00:00Z
+Preferred-Languages: en, ar
+Canonical: https://mazenmohasseb.github.io/.well-known/security.txt
